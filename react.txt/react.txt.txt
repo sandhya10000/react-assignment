@@ -1,0 +1,11 @@
+step 1:- npm create vite@latest useEffectHooks
+
+step 2:- 
+Select a framework:  React
+Select a variant:    JavaScript (or TypeScript)
+
+step 3:- npm install bootstrap
+step 4: - import 'bootstrap/dist/css/bootstrap.min.css'; "main.jsx"
+
+
+step 4:- npm run dev
